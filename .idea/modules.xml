@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer/springcloud-consumer.iml" filepath="$PROJECT_DIR$/springcloud-consumer/springcloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-consumer-3001/springcloud-consumer (1).iml" filepath="$PROJECT_DIR$/springcloud-consumer-3001/springcloud-consumer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-parent.iml" filepath="$PROJECT_DIR$/springcloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider/springcloud-provider.iml" filepath="$PROJECT_DIR$/springcloud-provider/springcloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-provider-2001/springcloud-provider (1).iml" filepath="$PROJECT_DIR$/springcloud-provider-2001/springcloud-provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-server/springcloud-server.iml" filepath="$PROJECT_DIR$/springcloud-server/springcloud-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-server-1001/springcloud-server (1).iml" filepath="$PROJECT_DIR$/springcloud-server-1001/springcloud-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-server-1001/springcloud-server2.iml" filepath="$PROJECT_DIR$/springcloud-server-1001/springcloud-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-conmon/user-conmon.iml" filepath="$PROJECT_DIR$/user-conmon/user-conmon.iml" />
+    </modules>
+  </component>
+</project>

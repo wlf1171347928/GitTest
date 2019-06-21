@@ -1,0 +1,26 @@
+server:
+  port: 1001
+eureka:
+  instance:
+    hostname: eureka-1001.com
+  client:
+      registerWithEureka: false #是否要注册到eureka,防止注册中心自己注册到控制中心
+      fetchRegistry: false #表示是否从Eureka Server获取注册信息
+      serviceUrl:
+        defaultZone:  http://eureka-1000.com:1000/eureka/ #单机配置，服务中心的网址
+spring:
+  application:
+    name: eureka-server2
+#server:
+#  port: 1001 #端口
+#eureka:
+#  instance:
+#    hostname: eureka-1001.com #主机名
+#  client:
+#    registerWithEureka: false   #禁止当前注册中心自己注册
+#    fetchRegistry: false  # 禁止当前注册中心拉取注册服务订单
+#    serviceUrl:
+#      defaultZone: http://eureka-1000.com:1000/eureka/ #注册中心地址 http://localhost:1000
+#spring:
+#  application:
+#    name: eureka-server2
